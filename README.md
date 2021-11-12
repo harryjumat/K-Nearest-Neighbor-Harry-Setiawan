@@ -1,5 +1,5 @@
 # improved_knn
-Analisis Sentimen terhadap Shopee pada Twitter menggunakan Algoritma K-Nearest Neighbor
+Judul Skripsi Saya pada Aplikasi ini adalah "Analisis Sentimen terhadap Shopee pada Twitter menggunakan Algoritma K-Nearest Neighbor"
 
 Dibalik dari kesuksesan layanan E-Commerce, muncul beberapa tanggapan
 dari masyarakat yang telah menggunakan layanan E-Commerce melalui media
